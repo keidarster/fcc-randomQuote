@@ -1,4 +1,4 @@
-# fcc-randomQuote
+# freeCodeCamp - Build a random quote machine
 
 This is the First intermediate Front End Development project from the freeCodeCamp Front End path.
 I used an API for random programming quotes that is available in the following URL:
